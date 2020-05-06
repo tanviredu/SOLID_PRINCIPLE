@@ -1,0 +1,13 @@
+C:\Users\ornob\source\repos\ratingproject\ratingproject\bin\Debug\netcoreapp3.1\ratingproject.exe
+C:\Users\ornob\source\repos\ratingproject\ratingproject\bin\Debug\netcoreapp3.1\ratingproject.deps.json
+C:\Users\ornob\source\repos\ratingproject\ratingproject\bin\Debug\netcoreapp3.1\ratingproject.runtimeconfig.json
+C:\Users\ornob\source\repos\ratingproject\ratingproject\bin\Debug\netcoreapp3.1\ratingproject.runtimeconfig.dev.json
+C:\Users\ornob\source\repos\ratingproject\ratingproject\bin\Debug\netcoreapp3.1\ratingproject.dll
+C:\Users\ornob\source\repos\ratingproject\ratingproject\bin\Debug\netcoreapp3.1\ratingproject.pdb
+C:\Users\ornob\source\repos\ratingproject\ratingproject\obj\Debug\netcoreapp3.1\ratingproject.csprojAssemblyReference.cache
+C:\Users\ornob\source\repos\ratingproject\ratingproject\obj\Debug\netcoreapp3.1\ratingproject.csproj.CoreCompileInputs.cache
+C:\Users\ornob\source\repos\ratingproject\ratingproject\obj\Debug\netcoreapp3.1\ratingproject.AssemblyInfoInputs.cache
+C:\Users\ornob\source\repos\ratingproject\ratingproject\obj\Debug\netcoreapp3.1\ratingproject.AssemblyInfo.cs
+C:\Users\ornob\source\repos\ratingproject\ratingproject\obj\Debug\netcoreapp3.1\ratingproject.dll
+C:\Users\ornob\source\repos\ratingproject\ratingproject\obj\Debug\netcoreapp3.1\ratingproject.pdb
+C:\Users\ornob\source\repos\ratingproject\ratingproject\obj\Debug\netcoreapp3.1\ratingproject.genruntimeconfig.cache
